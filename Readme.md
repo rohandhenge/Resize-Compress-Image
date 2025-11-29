@@ -128,8 +128,9 @@ Upload a img
 
 input-bucket-pro
 
-Expected outputs in output-bkt-irs:
+Expected outputs in output-bucket-pro:
  ![](./img/resized%20img%202.png)
 
  ![](./img/resized%20img.png)
+
 
