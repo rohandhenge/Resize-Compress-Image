@@ -116,7 +116,7 @@ AmazonSNSFullAccess
 
 Service: S3
 
-Bucket: input-bkt-irs
+Bucket: input-bucket-pro
 
 Event Type: PUT (Object Created)
 
@@ -132,3 +132,4 @@ Expected outputs in output-bkt-irs:
  ![](./img/resized%20img%202.png)
 
  ![](./img/resized%20img.png)
+
